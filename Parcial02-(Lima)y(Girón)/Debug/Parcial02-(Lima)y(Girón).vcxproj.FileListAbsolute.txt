@@ -1,0 +1,20 @@
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).vcxprojAssemblyReference.cache
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02\Parcial02-(Lima)y(Girón)\Debug\Parcial02LimayGirón.MyForm.resources
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).vcxproj.GenerateResource.cache
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).exe
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).pdb
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\PROGRA AVANZADA\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).vcxprojAssemblyReference.cache
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\PROGRA AVANZADA\Parcial02-(Lima)y(Girón)\Debug\Parcial02LimayGirón.MyForm.resources
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\PROGRA AVANZADA\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).vcxproj.GenerateResource.cache
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\PROGRA AVANZADA\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).exe
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\PROGRA AVANZADA\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).pdb
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).vcxprojAssemblyReference.cache
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02-(Lima)y(Girón)\Debug\Parcial02LimayGirón.MyForm.resources
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).vcxproj.GenerateResource.cache
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).exe
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).pdb
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\backup\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).vcxprojAssemblyReference.cache
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\backup\Parcial02-(Lima)y(Girón)\Debug\Parcial02LimayGirón.MyForm.resources
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\backup\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).vcxproj.GenerateResource.cache
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\backup\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).exe
+C:\Users\janci\Documents\URL 2020\2do Ciclo\Progra avanzada\backup\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).pdb

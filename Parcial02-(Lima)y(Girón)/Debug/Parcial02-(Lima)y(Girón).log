@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\PROGRA AVANZADA\Parcial02-(Lima)y(Girón)\MyForm.h(406,20): warning C4101: 'e': variable local sin referencia
+C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\PROGRA AVANZADA\Parcial02-(Lima)y(Girón)\MyForm.h(439,20): warning C4101: 'e': variable local sin referencia
+  Cola.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Parcial02-(Lima)y(Girón).vcxproj -> C:\Users\andre\Documents\Cursos U\Segundo Ciclo 2020\PROGRA AVANZADA\Parcial02-(Lima)y(Girón)\Debug\Parcial02-(Lima)y(Girón).exe
